@@ -12,7 +12,6 @@ Functionalities
 	  ->press 0 to exit.
 
 Project Members
-
 Haisim Yasin,
 Omer Farooq
 
