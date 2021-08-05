@@ -13,6 +13,6 @@ Functionalities
 
 Project Members
 
-Haisim Yasin
+Haisim Yasin,
 Omer Farooq
 
